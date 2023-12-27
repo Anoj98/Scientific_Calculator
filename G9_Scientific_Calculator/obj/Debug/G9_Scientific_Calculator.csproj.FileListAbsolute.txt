@@ -1,0 +1,14 @@
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\bin\Debug\G9_Scientific_Calculator.exe.config
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\bin\Debug\G9_Scientific_Calculator.exe
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\bin\Debug\G9_Scientific_Calculator.pdb
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.ScientificCalculatorForm.resources
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.Properties.Resources.resources
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.StanderdForm.resources
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.csproj.GenerateResource.Cache
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.exe
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.pdb
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.csprojResolveAssemblyReference.cache
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.ScientificForm.resources
+c:\users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.ConverterForm.resources
+C:\Users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.AboutForm.resources
+C:\Users\anojh\documents\visual studio 2015\Projects\G9_Scientific_Calculator\G9_Scientific_Calculator\obj\Debug\G9_Scientific_Calculator.SplashScreen.resources
